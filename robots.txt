@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dastract.github.io/sitemap.dastract.gz
+Sitemap: https://dastract.github.io/app/sitemap.dastract.gz
+Sitemap: https://dastract.github.io/assets/sitemap.dastract.gz
+Sitemap: https://dastract.github.io/css/sitemap.dastract.gz
+Sitemap: https://dastract.github.io/data/sitemap.dastract.gz
+Sitemap: https://dastract.github.io/includes/sitemap.dastract.gz
+Sitemap: https://dastract.github.io/item/sitemap.dastract.gz
+Sitemap: https://dastract.github.io/src/sitemap.dastract.gz
